@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishan A6 Minotaurs Labyrinth", "Ishan A6 Minotaurs Labyrinth.csproj", "{39E5909B-3EA5-4309-BD7B-0C8BBFFC84DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E5909B-3EA5-4309-BD7B-0C8BBFFC84DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E5909B-3EA5-4309-BD7B-0C8BBFFC84DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E5909B-3EA5-4309-BD7B-0C8BBFFC84DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E5909B-3EA5-4309-BD7B-0C8BBFFC84DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE06E95-C1B4-4933-9158-7686E12D89FD}
+	EndGlobalSection
+EndGlobal
